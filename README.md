@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://samuelrener-dev.github.io/project-2-curso-main/
 
 ### Built with
 
